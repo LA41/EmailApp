@@ -6,3 +6,5 @@ In here my task was creating email accounts for new employees. This app does the
 - generates a random string for a password;
 - have set methods to change password, set mailbox capacity and define an alternate email address;
 - have get methods to display name, email and mailbox capacity.
+
+Working on this challenge helped me improve my skills in OOP and made me understand more encapsulation concept :) 
